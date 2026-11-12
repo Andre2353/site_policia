@@ -39,6 +39,7 @@ Public discussions surrounding law enforcement doctrine, structural police refor
 
 ```text
 ├── index.html       # Unified single-page application (Markup, Tailwind CSS CDN & Pure JS logic)
+├── style.css        # External stylesheet with custom animations and base styles
 ├── .gitignore       # Git exclusions for OS, editor caches, and temporary artifacts
 └── README.md        # Comprehensive technical documentation and usage guide
 ```
